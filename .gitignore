@@ -173,3 +173,13 @@ cython_debug/
 training/*
 
 *.deb
+
+nohup.out
+
+data/output
+.webui_secret_key
+
+*.jsonl
+
+data/corpus
+data/knowledge
