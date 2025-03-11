@@ -187,3 +187,5 @@ data/knowledge
 .vscode
 
 *.txt
+
+recog_cycle/
