@@ -189,3 +189,5 @@ data/knowledge
 *.txt
 
 recog_cycle/
+
+data/
